@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about c
 - 📫 How to reach me:x
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...\
+- :office: Nastavnik
 
